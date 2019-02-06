@@ -1,5 +1,6 @@
 # network_analysis
-find influencer people in social graph and calculate centrality values.
+finds influencer people in social graph and calculates centrality values.
+
 2018-2019 fall CSE225 - Data Structures Project-3
  
 150117509 Mustafa Abdullah Hakkoz  
